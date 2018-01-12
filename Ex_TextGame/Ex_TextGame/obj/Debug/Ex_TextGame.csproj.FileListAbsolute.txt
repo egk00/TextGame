@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\bin\Debug\Ex_TextGame.exe.config
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\bin\Debug\Ex_TextGame.exe
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\bin\Debug\Ex_TextGame.pdb
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.Form1.resources
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.exe
+C:\Users\Administrator\Desktop\C#\WindowsForms\2018-01-12\Ex_TextGame\Ex_TextGame\obj\Debug\Ex_TextGame.pdb
